@@ -5,4 +5,4 @@ Library dedicated to Sparse matrices, see the doxygen file for more information 
 To be able to compile and use the library it is necessary to:
 - Download the [GCC Compiler](https://gcc.gnu.org/install/download.html)
 - Use the "make" command to compile
-- To boot
+- Execute it
